@@ -1,0 +1,4 @@
+include LICENSE.txt
+recursive-include aldryn_responsive/templates *
+recursive-include aldryn_responsive/migrations *
+recursive-exclude * *.pyc
