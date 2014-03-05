@@ -1,7 +1,7 @@
 {
 	"name": "Aldryn Responsive",
 	"description": "A short description of the app.",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"url": "https://github.com/aldryn/aldryn-responsive",
 	"package-name": "aldryn-responsive",
 	"installed-apps": [
